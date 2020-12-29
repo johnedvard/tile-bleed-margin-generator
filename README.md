@@ -1,4 +1,5 @@
 # tile-bleed-margin-generator
+
 Automatically stretch out the 1px edge of each tile in a sprite sheet to compensate for tile bleed in 2D game development.
 
 ## bleed.sh
@@ -13,4 +14,4 @@ Example
 
 ## How to use in Unity
 
-TODO (johnedvard) Add image.
+![Unity tilemap settings](https://github.com/johnedvard/tile-bleed-margin-generator/blob/master/Unity-tilemap-settings.png?raw=true)
